@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.decisionbox.AccountPayableApplication",
+      "sourceMethod": "dataSource()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "FILE_VENDOR_MASTER_FILENAME_WITH_PATH",
+      "type": "java.lang.String",
+      "description": "A description for 'FILE_VENDOR_MASTER_FILENAME_WITH_PATH'"
+    },
+    {
+      "name": "FOLDER_ARCHIVE_FOLDER",
+      "type": "java.lang.String",
+      "description": "A description for 'FOLDER_ARCHIVE_FOLDER'"
+    },
+    {
+      "name": "FOLDER_ATTACHMENT_SAVE",
+      "type": "java.lang.String",
+      "description": "A description for 'FOLDER_ATTACHMENT_SAVE'"
+    },
+    {
+      "name": "FOLDER_IMAGE_SAVE",
+      "type": "java.lang.String",
+      "description": "A description for 'FOLDER_IMAGE_SAVE'"
+    },
+    {
+      "name": "FOLDER_PDF_SAVE",
+      "type": "java.lang.String",
+      "description": "A description for 'FOLDER_PDF_SAVE'"
+    }
+  ],
+  "hints": []
+}
